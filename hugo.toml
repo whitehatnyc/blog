@@ -1,0 +1,4 @@
+baseURL = 'http://whitehat.nyc/blog/'
+languageCode = 'en-us'
+title = 'WhiteHat Blog'
+theme = 'hugo-xterm'
